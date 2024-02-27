@@ -1,1 +1,19 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#Excusa {
+  text-align: center;
+  margin-top: 200px;
+  color: orange;
+}
+#encabezado {
+  color: yellow;
+  text-align: center;
+  margin-top: 50px;
+}
+#Boton {
+  margin-left: 45%;
+  margin-top: 10%;
+}
+body {
+  background-color: black;
+}
